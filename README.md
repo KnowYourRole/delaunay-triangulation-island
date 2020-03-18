@@ -7,9 +7,9 @@ link to video: https://drive.google.com/file/d/1it__gd7-71rQEvTunlRVkIgCSaCqkZS7
 
 
 <p align="center">
-  
+  <br></br>
 <img src="Images/Generations.png">
-  
+  <br></br>
 <img src="Images/Voronoi_Implementation.png">
   
 </p>
