@@ -5,4 +5,4 @@ This repository includes a delaunay triangulation algoritm that generates an isl
 
 link to video: https://drive.google.com/file/d/1it__gd7-71rQEvTunlRVkIgCSaCqkZS7/view?usp=sharing
 
-![](images/github-Generations.png)
+![](Images/Generations.png)
